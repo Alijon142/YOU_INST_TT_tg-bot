@@ -1,0 +1,37 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.tiktok.com	TRUE	/	TRUE	0	tt_csrf_token	QZuhOhh9-w902-tGX7YOpTLYthNPS1LoRMH4
+.tiktok.com	TRUE	/	TRUE	1755940792	tt_chain_token	T9Y+kfvSGkHCOAvIryrroQ==
+.www.tiktok.com	TRUE	/	TRUE	1766308793	tiktok_webapp_theme	light
+.www.tiktok.com	TRUE	/	TRUE	1740820618	perf_feed_cache	{%22expireTimestamp%22:1740560400000%2C%22itemIds%22:[%227449424014264503585%22%2C%227444594164945227040%22%2C%227450363148734975240%22]}
+.www.tiktok.com	TRUE	/	TRUE	1766308631	delay_guest_mode_vid	5
+.tiktok.com	TRUE	/	TRUE	1774084651	cookie-consent	{%22optional%22:true%2C%22ga%22:true%2C%22af%22:true%2C%22fbp%22:true%2C%22lip%22:true%2C%22bing%22:true%2C%22ttads%22:true%2C%22reddit%22:true%2C%22hubspot%22:true%2C%22version%22:%22v10%22}
+.tiktok.com	TRUE	/	TRUE	1745572669	passport_csrf_token	3472e3c0b115659e944cc7a3b2e41fd8
+.tiktok.com	TRUE	/	TRUE	1745572669	passport_csrf_token_default	3472e3c0b115659e944cc7a3b2e41fd8
+.tiktok.com	TRUE	/	TRUE	0	s_v_web_id	verify_m7iuj2d0_gRnAUYOA_4Kzj_4xgT_Baea_ldgteHh5DQjU
+.tiktok.com	TRUE	/	TRUE	1745572788	multi_sids	7267879896076174342%3Ac0a614c39b1e648593a9fc374eeda735
+.tiktok.com	TRUE	/	TRUE	1745572788	cmpl_token	AgQQAPOEF-RO0rTiXOW74B0__d2hzhlHf5QTYNkCew
+.tiktok.com	TRUE	/	FALSE	1742980788	passport_auth_status	0b6c19ba44a08d183405080ec6c9ab26%2C
+.tiktok.com	TRUE	/	TRUE	1742980788	passport_auth_status_ss	0b6c19ba44a08d183405080ec6c9ab26%2C
+.tiktok.com	TRUE	/	TRUE	1755940789	uid_tt	52e489be1cc0b6457b6a8a8502efc9e470dd8bb8577dcd8c080e5ce2a44ac251
+.tiktok.com	TRUE	/	TRUE	1755940789	uid_tt_ss	52e489be1cc0b6457b6a8a8502efc9e470dd8bb8577dcd8c080e5ce2a44ac251
+.tiktok.com	TRUE	/	TRUE	1755940789	sid_tt	c0a614c39b1e648593a9fc374eeda735
+.tiktok.com	TRUE	/	TRUE	1755940789	sessionid	c0a614c39b1e648593a9fc374eeda735
+.tiktok.com	TRUE	/	TRUE	1755940789	sessionid_ss	c0a614c39b1e648593a9fc374eeda735
+.tiktok.com	TRUE	/	FALSE	1755940789	store-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1755940789	store-country-code	uz
+.tiktok.com	TRUE	/	FALSE	1755940789	store-country-code-src	uid
+.tiktok.com	TRUE	/	FALSE	1755940789	tt-target-idc	alisg
+.tiktok.com	TRUE	/	FALSE	1771924790	tt-target-idc-sign	cibI61yRxTLqKY9iOdgfW08DMTCwGMpP_nT4Qw4EKLx-ZL_MBRwVycne2mYV5fQ54YP6FQw1iD1zVfznfG2Iq__s91roM_zwKm6owm3s8YQtN_rjZyA8awvKoUnmmgxUfEHoVJ7QkSwVnL_zgyI1lh4VO9Bf_EdeMKltagPSjgysAyGkj5TymD8zac8Gu1XoxHSbIniYzD5m9XIvNuv8jM90kuqPqgSSoG7nUFWotHYVbSXIrdRLONc1PirZpwfSdi8B_OJGVZG-oFVNLeqV7TZvsuPNK7OkBxLhGpQMsHecz8TBayOOurMBz5dBoCsMsEQVyWb-gz_4bCW0dY-3oixQR49n2GC3gua6ufQc_njpfV5dGrvtPOxL3WeJmILn8dcbUHfAEKUB6kvXaml4Ri6WtmFkFbayEmXm4-9JSYX_mF5EU6LuafV0suOjGyB8No9WEJ6leKfboFQgAHxNv9m1BtN9Cn4Ucm9UgpyJFvycrF0PrqBOAVNVbSy82koW
+www.tiktok.com	FALSE	/	FALSE	1748164788	last_login_method	google
+.www.tiktok.com	TRUE	/	TRUE	1766308793	tiktok_webapp_theme_source	auto
+.tiktok.com	TRUE	/	TRUE	1771924806	ttwid	1%7C5oMQUx5XXO_PuAZzLZT4xbZT8uZKFR1cdcEMRc2vOd4%7C1740388804%7Cf40588319b5f32e405c8c9b4807aa434123d8a74fe4e9e6bbe85ba5eda09f45b
+.tiktok.com	TRUE	/	TRUE	1771492806	sid_guard	c0a614c39b1e648593a9fc374eeda735%7C1740388804%7C15551983%7CSat%2C+23-Aug-2025+09%3A19%3A47+GMT
+.tiktok.com	TRUE	/	TRUE	1755940789	sid_ucp_v1	1.0.0-KDM2MzZkNTk1NjAwMjIyOThiNTFiMjI4NDhkNDg5ZGQ2YzAxNWRhMzcKGQiGiMueo8is7mQQxPPwvQYYsws4CEASSAQQAxoDbXkyIiBjMGE2MTRjMzliMWU2NDg1OTNhOWZjMzc0ZWVkYTczNQ
+.tiktok.com	TRUE	/	TRUE	1755940789	ssid_ucp_v1	1.0.0-KDM2MzZkNTk1NjAwMjIyOThiNTFiMjI4NDhkNDg5ZGQ2YzAxNWRhMzcKGQiGiMueo8is7mQQxPPwvQYYsws4CEASSAQQAxoDbXkyIiBjMGE2MTRjMzliMWU2NDg1OTNhOWZjMzc0ZWVkYTczNQ
+.tiktok.com	TRUE	/	FALSE	1771924814	odin_tt	d87914cab20e54177828f6e3b8c0d97eb3489feb2f3435e6c4e602ceaaecf082d44a623004be6ae179b59887a07c3cf5058b7dfb6d5e5c8c8067bc7b32ea25561977694a708d26a2addd7cbc505136f7
+.www.tiktok.com	TRUE	/	FALSE	0	passport_fe_beating_status	true
+.tiktok.com	TRUE	/	TRUE	1741264361	msToken	oOqtm8FEEUJt9wq1-J8FsF9FKLh_Wc1qRfFQJ3NUMlJaK2VFO0BHqMPWF76qjdIf6Lef5tbw6zrMDK_9tssfbDpVJGOsrbtzwHel7dznpi8PTQPnayfYivoqf6-S6T_WGphE7uJWze_IKp2USCdiJkFh
+www.tiktok.com	FALSE	/	FALSE	1748176360	msToken	oOqtm8FEEUJt9wq1-J8FsF9FKLh_Wc1qRfFQJ3NUMlJaK2VFO0BHqMPWF76qjdIf6Lef5tbw6zrMDK_9tssfbDpVJGOsrbtzwHel7dznpi8PTQPnayfYivoqf6-S6T_WGphE7uJWze_IKp2USCdiJkFh
